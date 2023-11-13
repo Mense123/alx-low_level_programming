@@ -2,7 +2,6 @@
 /**
  * _puts - prints a string to stdout
  * @str: pointer parameter
- * Author: sammykingx
  */
 
 void _puts(char *str)
